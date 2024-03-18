@@ -1,2 +1,2 @@
 # Leetcode
-This is a Leetcode solutions repo.
+This is a Leetcode solutions throught C++ repo.
